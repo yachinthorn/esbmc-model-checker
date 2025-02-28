@@ -30,8 +30,6 @@ Using Docker helps you **avoid operating system and library installation issues*
    - Right-click on the container -> **Attach Visual Studio Code**.
    - When VS Code opens, go to **File > Open Folder**, and select the **`/workspace`** folder.
 
-   ![Docker VS Code](image.png)
-
 ---
 
 ## ▶️ Running ESBMC
